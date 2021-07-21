@@ -1,4 +1,4 @@
-name: Manually Deploy to heroku
+name: Github-WorkFlow Deployment to heroku
 
 on: workflow_dispatch
 
